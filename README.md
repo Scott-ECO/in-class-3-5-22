@@ -10,4 +10,4 @@
 ## Why are you in this class?
 ### FinTech is an exciting career.  ASU Bootcamp seemed like a great idea.  Lots of learning!!
 
-[id]:logo.png "C:\Users\scott\Dropbox\Redcastle Builders\Pictures\Marketing Photos\Team\MSH_MonicaEvans-Redcastle_builders02_04_19-32 - Scott.jpg"
+[id]:logo.png "https://www.dropbox.com/s/t3an6n8pkzivst3/Harris2019-110%20-%20Copy.jpg?dl=0"
